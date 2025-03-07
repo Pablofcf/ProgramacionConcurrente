@@ -1,6 +1,7 @@
 # ProgramacionConcurrente
 ```python
 import threading
+#Sirve para manejar múltiples tareas simultáneamente mediante el uso de hilos (threads)
 
 # Función que imprime números del 0 al 4
 def imprimir_numeros():
